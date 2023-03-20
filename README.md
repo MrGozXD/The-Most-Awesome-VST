@@ -8,6 +8,7 @@ IDE : Visual Studio 2022
 Langage : C++
 
 Framework : JUCE
+https://docs.juce.com/master/tutorial_synth_using_midi_input.html
 
 Initialisation du projet : Projuce
 
