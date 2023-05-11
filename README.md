@@ -31,10 +31,10 @@ Nous avons ensuite ajouté 2 boutons à notre interfaces, intitulés "+" et "-",
 
 ## Configuration RaspPi
 
-Installer Debian/RaspOs sur la carte
-Installer la version correspondante de Renoise sur votre Rasp (pour une Rasp4 de l'école, choisir Renoise - Linux armhf) https://www.renoise.com/download 
-Installer le plug-in .vst3 obtenu après build sur la Rasp
-Brancher la STM32F7 Discovery
-Lancer le plug-in sur Renoise
-Sélectionner la STM32F7 comme MIDI Device In
-Enjoy !
+-Installer Debian/RaspOs sur la carte
+-Installer la version correspondante de Renoise sur votre Rasp (pour une Rasp4 de l'école, choisir Renoise - Linux armhf) https://www.renoise.com/download 
+-Installer le plug-in .vst3 obtenu après build sur la Rasp
+-Brancher la STM32F7 Discovery
+-Lancer le plug-in sur Renoise
+-Sélectionner la STM32F7 comme MIDI Device In
+-Enjoy !
